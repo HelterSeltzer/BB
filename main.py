@@ -117,7 +117,6 @@ def main():
                 elif count2 == "z":
                     z += 1
 
-    print(file_contents)
     print("--- Begin report of books/frankenstein.txt ---")
     print(f"{wordCount} words found in the document")
     print("")
