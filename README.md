@@ -1,3 +1,3 @@
 # BB
 bookbot
-sjda
+Learning project for git/github.
